@@ -1,4 +1,4 @@
-<p><h1 align="center">基于JSP+Servlet实现的学生信息管理系统</h1></p>
+<p><h1 align="center">基于JSP+Servlet实现的学生信息管理系统【带文档】</h1></p>
 
 <p> 获取sql文件 QQ: 3645296857 QQ群: 978300347 </p>
 <h4> 需要视频演示可联系上述QQ，私发视频链接 </h4>
@@ -17,7 +17,7 @@
 
 ## 项目介绍
 
-基于JSP+Servlet实现的学生信息管理系统：前端 JSP、BootStrap、JQuery、Ajax，后端 Servlet，系统角色分为：管理员。本系统采用B/S结构，使用JAVA开发语言，结合JSP技术，以MySQL作为后台数据库。该系统包括前端用户界面和后台管理。主要功能如下：
+基于JSP+Servlet实现的学生信息管理系统【带文档】：前端 JSP、BootStrap、JQuery、Ajax，后端 Servlet，系统角色分为：管理员。本系统采用B/S结构，使用JAVA开发语言，结合JSP技术，以MySQL作为后台数据库。该系统包括前端用户界面和后台管理。主要功能如下：
 
 ### 管理员
 - 基本操作：登录、注册、修改密码、重置其他账号密码、登出
